@@ -1,7 +1,7 @@
 
-###1 README
-![avatar](image/1.png)
+## README
+![avatar](images/1.png)
 
-![avatar](iamge/2.png)
+![avatar](iamges/2.png)
 
-![avatar](image/3.png)
+![avatar](images/3.png)

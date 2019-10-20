@@ -1,8 +1,7 @@
 
 ## README
 
-![avatar](iamges/2.png)
-![avatar](iamges/2.png)
+![avatar](images/aaa.png)
 
 ![avatar](images/3.png)
 

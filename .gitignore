@@ -1,0 +1,6 @@
+.next/
+node_modules/
+exp_server/configs/
+.vscode
+yarn-error.log
+yarn.lock

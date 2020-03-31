@@ -15,7 +15,7 @@
     "crawler": "^1.2.1",
     "express": "^4.14.0",
     "mongoose": "^5.7.5",
-    "next": "^9.1.1",
+    "next": "^9.3.2",
     "postcss-css-variables": "^0.13.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
